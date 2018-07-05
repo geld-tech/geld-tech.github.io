@@ -7,3 +7,5 @@ GitHub pages of the geld.tech organisation https://geld-tech.github.io
 * apache log parser
 * dynamic dns
 * resources dashboard
+* text alerts with admin page
+
