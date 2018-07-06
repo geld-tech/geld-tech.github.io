@@ -8,4 +8,5 @@ GitHub pages of the geld.tech organisation https://geld-tech.github.io
 * dynamic dns
 * resources dashboard
 * text alerts with admin page
+* SLA service(s) monitor with webpage
 
