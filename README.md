@@ -9,8 +9,4 @@ GitHub pages of the geld.tech organisation https://geld-tech.github.io
 * resources dashboard
 * text alerts with admin page
 * SLA service(s) monitor with webpage
-* 
-* 
-
-
 
