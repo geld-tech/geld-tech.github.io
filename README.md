@@ -9,4 +9,5 @@ GitHub pages of the geld.tech organisation https://geld-tech.github.io
 * text alerts with admin page
 * SLA service(s) monitor with webpage
   * Config page on first login
+  * Integration SMS services for alerting
 
