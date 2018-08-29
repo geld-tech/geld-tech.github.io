@@ -11,4 +11,5 @@ GitHub pages of the geld.tech organisation https://geld-tech.github.io
   * Config page on first login
   * Integration SMS services for alerting
   * Selection time range chart
+* CRUD application
 
